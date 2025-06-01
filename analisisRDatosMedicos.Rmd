@@ -1,0 +1,104 @@
+```{r}
+library(tidyverse)
+library(readr)
+```
+
+```{r}
+reglab1<-function(archivo){
+  read.delim2(archivo, header = FALSE)
+}
+
+reglab1 <- ("C:/Users/jjose/OneDrive/Desktop/registros_laboratorio.txt")
+```
+
+```{r}
+#Creacion de las variables id, fecha, glucosa, edad y paciente
+id_patron <- "ID:\\s*(\\d+)"
+fecha_patron <-"Fecha:\\s*(\\d{4}-\\d{2}-\\d{2})"
+glucosa_patron <- "Glucosa:\\s*(\\d{1,3}+mg/dL)"
+edad_patron <- "Edad:\\s*(\\d{1,3})"
+nombre_patron <-"Paciente:\\s*(\\w*+\\s*\\w*+.\\s*+\\w*)"
+```
+
+```{r}
+vectores<- function(reglab1){
+  ids <-c()
+  fechas <- c()
+  glucosas <- c()
+  edades <- c()
+  pacientes <-c()
+  
+  list(
+    ids=ids,
+    fechas=fechas,
+    glucosas=glucosas,
+    edades=edades,
+    pacientes=pacientes
+  )
+}
+
+#print(vectores())
+#v <-vectores(reglab1)
+#print(v)
+```
+
+```{r}
+llenado_registros <- function(reglab1, vectores){
+  for(registros in reglab1[[1]]){
+    id <- str_match(registro, id_patron)[,2]
+    fecha <- str_match(registro, fecha_patron)[,2]
+    glucosa <- str_match(registro, glucosa_patron)[,2]
+    edad <- str_match(registro, edad_patron)[,2]
+    paciente<- str_match(registro, nombre_patron)[,2]
+    
+    vectores$ids <- c(vectores$ids, id)
+    vectores$fechas <- c(vectores$fechas, fecha)
+    vectores$glucosas <- c(vectores$glucosas, glucosa)
+    vectores$edades <- c(vectores$edades, edad)
+    vectores$pacientes <- c(vectores$pacientes, paciente)
+  }
+  return(vectores)
+}
+
+```
+
+```{r}
+vectores <- list(
+  ids = c(),
+  fechas = c(),
+  glucosas = c(),
+  edades = c(),
+  pacientes =c()
+)
+```
+
+```{r}
+vectores_llenos <- llenado_registros(reglab1, vectores)
+```
+
+```{r}
+datos <- tibble(
+  ID=vectores_llenos$ids,
+  Fecha=vectores_llenos$fechas,
+  Glucosa=vectores_llenos$glucosas,
+  Edad=vectores_llenos$edades,
+  Paciente =vectores_llenos$pacientes
+)
+```
+
+```{r}
+registros_limpios <- datos[!is.na(datos$Glucosa),]
+print(registros_limpios)
+```
+
+```{r}
+library(stringr)
+```
+
+```{r}
+registros_limpios <- registros_limpios %>%
+  mutate(Glucosa_num =as.numeric(str_remove(Glucosa, "mg/dL"))) %>% filter(Glucosa_num >=126)
+
+print(registros_limpios)
+```
+
