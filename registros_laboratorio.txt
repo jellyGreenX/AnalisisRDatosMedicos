@@ -1,0 +1,100 @@
+ID: 3316 | Fecha: 2023-01-31 | Glucosa: 90mg/dL | Edad: 50 | Paciente: Carlos Ríos
+ID: 4186 | Fecha: 2024-05-22 | Glucosa: 90 | Paciente: Raúl Núñez | Edad: 62
+Edad: 30 | ID: 4058 | Paciente: Carlos Santos | Glucosa: 212 mg | Fecha: 2023-12-04
+Glucosa: 244 | Edad: 25 | ID: 4755 | Fecha: 2023-02-05 | Paciente: Sofía Núñez
+ID: 3326 | Paciente: Elena L. Vargas | Fecha: 2024-01-04 | Edad: 65 | Glucosa: 201mg/dL
+Edad: 70 | Fecha: 2023-10-15 | Paciente: Ana R. Gómez | Glucosa: 239mg/dL | ID: 3060
+Edad: 53 | Fecha: 2023-09-26 | Glucosa: 129 | Paciente: María Ríos | ID: 3178
+Paciente: Lucía Pérez | ID: 4676 | Edad: 45 | Glucosa: 153 | Fecha: 2024-05-13
+Paciente: Carlos Ríos | Glucosa: 208 mg/dL | ID: 4914 | Fecha: 2024-03-18 | Edad: 25
+Fecha: 2023-05-15 | Paciente: Luis Ríos | ID: 3901 | Glucosa: 244 mg | Edad: 79
+Paciente: Ana Núñez | Edad: 47 | Fecha: 2023-09-24 | ID: 4543 | Glucosa: 71
+Edad: 64 | Glucosa: 153 mg | Paciente: María R. Gómez | ID: 3291 | Fecha: 2023-08-03
+Paciente: Elena Díaz | Fecha: 2023-06-15 | Edad: 20 | ID: 3044 | Glucosa: 112 mg/dL
+Edad: 44 | Paciente: Sofía Ríos | Glucosa: 107 | Fecha: 2024-11-23 | ID: 3565
+Paciente: Sofía Santos | ID: 4104 | Fecha: 2024-04-03 | Glucosa: 196 mg/dL | Edad: 68
+ID: 4796 | Fecha: 2024-11-07 | Glucosa: 164mg/dL | Edad: 63 | Paciente: Elena L. Vargas
+Glucosa: 103 mg | ID: 4569 | Edad: 19 | Paciente: Pedro Santos | Fecha: 2024-03-29
+Edad: 72 | Paciente: Sofía Torres | ID: 4462 | Fecha: 2023-05-07 | Glucosa: 215
+Fecha: 2023-07-06 | ID: 3930 | Paciente: Pedro C. Morales | Edad: 56 | Glucosa: 142mg/dL
+Edad: 47 | Glucosa: 181 | Paciente: Jorge Díaz | Fecha: 2024-09-13 | ID: 3357
+Paciente: Luis Ríos | Glucosa: 148 mg/dL | ID: 4516 | Edad: 52 | Fecha: 2023-12-30
+Glucosa: 116 | ID: 3137 | Paciente: Jorge Ríos | Fecha: 2024-03-17 | Edad: 74
+ID: 3683 | Glucosa: 227 | Edad: 28 | Fecha: 2023-03-21 | Paciente: Carlos L. Vargas
+Paciente: Jorge C. Morales | Glucosa: 175 | Edad: 66 | ID: 4734 | Fecha: 2024-03-07
+ID: 4072 | Paciente: María Núñez | Edad: 79 | Fecha: 2024-08-28 | Glucosa: 148 mg
+ID: 3369 | Edad: 85 | Paciente: Lucía Torres | Glucosa: 124 mg | Fecha: 2023-03-17
+Edad: 57 | Glucosa: 230 mg | Fecha: 2024-07-20 | ID: 4403 | Paciente: María R. Gómez
+Paciente: Lucía Ríos | Glucosa: 222 mg | ID: 3253 | Edad: 51 | Fecha: 2024-05-10
+ID: 3601 | Glucosa: 232mg/dL | Fecha: 2023-10-17 | Edad: 47 | Paciente: Carlos Pérez
+Paciente: Jorge Santos | Fecha: 2023-01-04 | ID: 3904 | Glucosa: 183 mg | Edad: 44
+ID: 4922 | Fecha: 2024-05-13 | Paciente: María Ríos | Glucosa: 222mg/dL | Edad: 33
+Edad: 23 | ID: 4029 | Glucosa: 170mg/dL | Fecha: 2024-08-17 | Paciente: Elena Núñez
+Edad: 81 | ID: 3006 | Glucosa: 191mg/dL | Paciente: Luis Ríos | Fecha: 2024-10-07
+ID: 3209 | Edad: 37 | Paciente: Jorge Ríos | Glucosa: 175 mg | Fecha: 2023-10-07
+Glucosa: 193 | Edad: 70 | Fecha: 2024-08-28 | ID: 4757 | Paciente: Sofía C. Morales
+Paciente: Elena Núñez | Glucosa: 194 mg/dL | Fecha: 2023-01-14 | ID: 4769 | Edad: 54
+Edad: 78 | ID: 4864 | Glucosa: 104 | Paciente: Jorge Pérez | Fecha: 2023-03-23
+Fecha: 2024-03-29 | Edad: 37 | Paciente: Luis R. Gómez | ID: 4248 | Glucosa: 71 mg/dL
+Edad: 59 | Paciente: Raúl L. Vargas | Glucosa: 213 mg/dL | Fecha: 2024-06-29 | ID: 3389
+ID: 4612 | Paciente: Jorge Santos | Glucosa: 223 | Fecha: 2023-02-22 | Edad: 51
+ID: 4948 | Paciente: Jorge Núñez | Glucosa: 201 mg/dL | Edad: 60 | Fecha: 2023-11-01
+ID: 4439 | Glucosa: 197 | Edad: 85 | Fecha: 2023-11-16 | Paciente: Raúl Pérez
+Glucosa: 191 mg/dL | Paciente: Carlos Ríos | Fecha: 2023-08-09 | ID: 4151 | Edad: 27
+Glucosa: 232 mg | Fecha: 2024-03-08 | Paciente: María Ríos | ID: 4356 | Edad: 76
+Edad: 26 | Paciente: Sofía Díaz | ID: 4558 | Glucosa: 222 mg | Fecha: 2024-09-23
+Edad: 75 | Paciente: Raúl Mendoza | Glucosa: 211 | ID: 3421 | Fecha: 2023-02-24
+Edad: 72 | Fecha: 2024-05-25 | ID: 3085 | Glucosa: 116 mg | Paciente: Luis Santos
+Edad: 29 | Paciente: Pedro Díaz | ID: 4800 | Glucosa: 119 | Fecha: 2023-03-10
+ID: 3407 | Paciente: Lucía Pérez | Glucosa: 76mg/dL | Fecha: 2024-01-22 | Edad: 48
+Fecha: 2023-12-24 | Edad: 44 | ID: 3599 | Glucosa: 124 | Paciente: Sofía Núñez
+Edad: 85 | Glucosa: 170 mg/dL | Paciente: Ana Díaz | ID: 3054 | Fecha: 2023-02-01
+Fecha: 2024-09-10 | Paciente: Lucía R. Gómez | ID: 3318 | Edad: 35 | Glucosa: 90 mg/dL
+ID: 3720 | Fecha: 2023-01-14 | Edad: 38 | Glucosa: 248 mg | Paciente: Ana Núñez
+Fecha: 2024-07-29 | Glucosa: 155mg/dL | Edad: 59 | Paciente: Ana Mendoza | ID: 3073
+Fecha: 2024-01-22 | ID: 4033 | Edad: 38 | Paciente: Lucía Santos | Glucosa: 167
+Paciente: Raúl Ríos | Edad: 34 | ID: 3187 | Fecha: 2024-04-07 | Glucosa: 135
+Glucosa: 87 mg/dL | Edad: 27 | Paciente: María Díaz | ID: 3201 | Fecha: 2023-04-20
+Paciente: Pedro C. Morales | Fecha: 2024-11-21 | ID: 4882 | Glucosa: 163 | Edad: 23
+Fecha: 2024-02-09 | Paciente: Elena C. Morales | ID: 4114 | Glucosa: 185mg/dL | Edad: 85
+Edad: 46 | Fecha: 2023-09-29 | Glucosa: 116mg/dL | Paciente: María Mendoza | ID: 3583
+Paciente: Elena Núñez | Fecha: 2024-01-03 | ID: 4259 | Edad: 64 | Glucosa: 152 mg
+Edad: 64 | Fecha: 2024-09-04 | ID: 4358 | Glucosa: 167mg/dL | Paciente: Carlos Santos
+Paciente: Pedro Núñez | Glucosa: 182 | ID: 3791 | Edad: 58 | Fecha: 2023-03-02
+Glucosa: 138 mg | ID: 3779 | Fecha: 2023-03-21 | Paciente: Sofía Torres | Edad: 56
+ID: 3330 | Paciente: Carlos Ríos | Fecha: 2023-02-15 | Edad: 67 | Glucosa: 88
+Fecha: 2024-12-27 | Edad: 60 | ID: 4061 | Paciente: Elena R. Gómez | Glucosa: 112
+Paciente: Pedro Díaz | Edad: 49 | Glucosa: 207 | ID: 4120 | Fecha: 2023-10-27
+Paciente: María Mendoza | Edad: 43 | Glucosa: 221 | Fecha: 2024-08-03 | ID: 3123
+Edad: 52 | ID: 3409 | Glucosa: 111 | Paciente: Elena Mendoza | Fecha: 2024-09-19
+ID: 4373 | Fecha: 2023-08-21 | Glucosa: 116mg/dL | Edad: 42 | Paciente: Lucía C. Morales
+Glucosa: 111 mg/dL | ID: 3933 | Paciente: Luis L. Vargas | Fecha: 2024-03-25 | Edad: 40
+Edad: 75 | Fecha: 2023-01-04 | Paciente: Sofía Santos | Glucosa: 100 | ID: 3924
+ID: 3732 | Edad: 80 | Fecha: 2023-04-16 | Paciente: Luis Ríos | Glucosa: 72 mg
+Edad: 24 | ID: 3954 | Fecha: 2023-09-15 | Paciente: Ana Ríos | Glucosa: 83
+Fecha: 2023-07-10 | Edad: 34 | Glucosa: 211 | ID: 3636 | Paciente: Lucía Pérez
+Paciente: Elena Núñez | Fecha: 2024-10-03 | Edad: 29 | Glucosa: 146mg/dL | ID: 3408
+ID: 4826 | Fecha: 2024-09-10 | Edad: 85 | Paciente: Sofía Torres | Glucosa: 128
+Edad: 57 | ID: 3881 | Fecha: 2024-08-25 | Glucosa: 123mg/dL | Paciente: Raúl Mendoza
+Edad: 68 | ID: 4542 | Paciente: Ana L. Vargas | Fecha: 2024-07-31 | Glucosa: 241 mg
+Edad: 83 | Glucosa: 81 | Fecha: 2023-08-09 | ID: 4609 | Paciente: María C. Morales
+ID: 4762 | Glucosa: 215 mg | Fecha: 2024-06-19 | Paciente: Carlos C. Morales | Edad: 51
+Edad: 65 | Paciente: Luis Pérez | Glucosa: 204 | Fecha: 2024-05-03 | ID: 4656
+Glucosa: 247 mg/dL | Fecha: 2024-06-20 | Edad: 33 | Paciente: Jorge Santos | ID: 4753
+Paciente: Jorge Díaz | Edad: 79 | ID: 4901 | Glucosa: 204mg/dL | Fecha: 2024-01-26
+Paciente: Elena Mendoza | Edad: 83 | ID: 4667 | Fecha: 2024-10-26 | Glucosa: 84
+Paciente: Jorge C. Morales | Glucosa: 227 | Fecha: 2024-05-30 | Edad: 33 | ID: 3364
+Glucosa: 172 mg/dL | ID: 3015 | Edad: 47 | Fecha: 2024-08-28 | Paciente: María Santos
+Edad: 80 | Fecha: 2024-04-16 | ID: 3700 | Paciente: Ana Núñez | Glucosa: 72
+ID: 3305 | Edad: 22 | Fecha: 2024-05-13 | Paciente: Ana Santos | Glucosa: 145mg/dL
+Edad: 80 | ID: 4893 | Paciente: Lucía Torres | Fecha: 2024-12-20 | Glucosa: 173mg/dL
+Glucosa: 175mg/dL | Edad: 67 | Fecha: 2023-10-31 | ID: 3724 | Paciente: Sofía L. Vargas
+Glucosa: 138 | Fecha: 2024-10-21 | Edad: 64 | Paciente: Pedro R. Gómez | ID: 4929
+Glucosa: 194 | Paciente: María Pérez | ID: 4630 | Edad: 59 | Fecha: 2024-04-22
+Fecha: 2024-02-13 | ID: 4177 | Edad: 32 | Glucosa: 87 mg | Paciente: Lucía C. Morales
+Fecha: 2023-01-04 | Glucosa: 103 | ID: 4613 | Edad: 27 | Paciente: Lucía Ríos
+Paciente: Pedro Pérez | ID: 4484 | Glucosa: 108 mg/dL | Fecha: 2024-09-23 | Edad: 58
+ID: 4414 | Glucosa: 184 mg/dL | Fecha: 2024-12-08 | Paciente: Raúl C. Morales | Edad: 53
+Paciente: Lucía Pérez | Edad: 75 | Glucosa: 100 mg | Fecha: 2024-07-10 | ID: 4501
+ID: 3186 | Fecha: 2023-02-21 | Edad: 68 | Paciente: Carlos Díaz | Glucosa: 153
+ID: 3376 | Glucosa: 114 mg/dL | Fecha: 2024-03-06 | Paciente: Lucía Mendoza | Edad: 37
