@@ -8,7 +8,7 @@ reglab1<-function(archivo){
   read.delim2(archivo, header = FALSE)
 }
 
-reglab1 <- ("C:/Users/jjose/OneDrive/Desktop/registros_laboratorio.txt")
+reglab1 <- ("C:/Users/directorio/...")
 ```
 
 ```{r}
